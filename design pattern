@@ -1,3 +1,4 @@
+# WIKIPEDIA
 Il y a plusieurs pages de wikipédia qui décrivent ce qu'est un design pattern:
 
 La page principale en français s'intitule "patron de conception" [ref 01].
@@ -13,5 +14,8 @@ Iterateur serait facile à utiliser en python
 
 C'est cette page qui permet d'être dirigé vers les description de ces patrons, et présente en prime les liens vers deux patrons qui auraient pu être utilisés pour les problèmes de connection avec les basese de données: Inversion de contrôle et Injection de dépendances.  
 
+# Exemple GITHUB
+Le lien donné vers un projet github est une manière d'utiliser ces grands principes. La methode render_identicon serait un exemple d'injection de dépendances, qui permet d'injecter n'importe quel objet "renderer" que l'on souhaite utiliser. C'est à mettre en ralation avec les exemples donnés pour le traitement des différentes bases de données, ou l'objet DBMS sera de la classe que l'on a choisi d'instancier, l'utilisation de methodes portant le même nom se faisant ensuite de manière transparente.
 
 [ref 01] http://fr.wikipedia.org/wiki/Patron_de_conception
+[ref 02] https://github.com/jkern/identicon.py/blob/master/identicon.py
