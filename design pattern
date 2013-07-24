@@ -1,0 +1,17 @@
+Il y a plusieurs pages de wikipédia qui décrivent ce qu'est un design pattern:
+
+La page principale en français s'intitule "patron de conception" [ref 01].
+Après une explication de ce que ce n'est pas, il y a une liste des patrons de conceptions qui sont décrit dans wikipédia.
+
+A priori les plus souvent rencontrés sont:
+Singleton
+Fabrique
+Objet Composite
+Decorateur
+
+Iterateur serait facile à utiliser en python
+
+C'est cette page qui permet d'être dirigé vers les description de ces patrons, et présente en prime les liens vers deux patrons qui auraient pu être utilisés pour les problèmes de connection avec les basese de données: Inversion de contrôle et Injection de dépendances.  
+
+
+[ref 01] http://fr.wikipedia.org/wiki/Patron_de_conception
