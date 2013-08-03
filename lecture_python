@@ -1,0 +1,31 @@
+####### Lecture Python en Général #######
+
+#### LIVRES :
+Python en Bref:
+http://python.developpez.com/tutoriels/python-en-bref/
+
+####### Framework Webs #######
+Liste et tableaux à propos des frameworks webs en Python (et autres):
+http://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks#Python_2
+
+Dans le lien il y a le détail des ORMs, des Tests, etc...
+
+####### Tutoriaux Django #######
+Créer un Blog avec django:
+http://gillesfabio.com/blog/2010/07/22/creer-un-blog-avec-django-1-2/
+
+Cet exemple aborde en plus la création des tests avant le reste.
+
+####### A propos d'Open ERP:
+Aborde énormement d'aspects différents des avantages/inconvénients pour une société d'utiliser OpenERP.
+L'historique explique que l'équipe initiale de tinyERP a splitté pour donner OpenERP et Tryton.
+http://people.via.ecp.fr/~alexis/openerp/
+
+####### BLOGS :
+En anglais mais tenu par un français, ici une page avec un article sur Sphinx.
+http://pvergain.wordpress.com/category/annees/2009/
+
+####### BORDEAUX :
+Blog d'un développeur Python sur Bordeaux:
+http://guillaumevincent.com/
+Aborde beaucoup le thème des tests et de la méthode agile.
